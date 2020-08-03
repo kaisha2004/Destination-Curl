@@ -35,7 +35,7 @@ Did you know that more than 60% of women have curly hair which makes for a mosai
 
 ### MVP
 
-_The **Destination Curl** MVP will provide a good starting point for the website. It would introduce consumers to the website by first educating them on the different curl types on the landing page. The products featured would help the consumer make informed decisions on purchases with clickable links to the product page. Here, the consumer would find additional product info and links to learn more about he seller/brands featured. The site would also feature DIY Hairstyle ideas to make styling hair easier for consumers. Also, we want this to be collaborative as consumers will be able to upload their own styles. 
+The **Destination Curl** MVP will provide a good starting point for the website. It would introduce consumers to the website by first educating them on the different curl types on the landing page. The products featured would help the consumer make informed decisions on purchases with clickable links to the product page. Here, the consumer would find additional product info and links to learn more about he seller/brands featured. The site would also feature DIY Hairstyle ideas to make styling hair easier for consumers. Also, we want this to be collaborative as consumers will be able to upload their own styles. 
 
 <br>
 
