@@ -1,7 +1,4 @@
 
-<img src="https://i.gifer.com/AAf.gif" width="220" height="200" />
-
-
 # Destination-Curl
 
 ### Project Overview
