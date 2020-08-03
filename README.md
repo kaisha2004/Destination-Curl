@@ -1,8 +1,8 @@
 ![Alt Text](https://media.giphy.com/media/26BRHHtEXdVVxVFmw/giphy.gif)
 
-
-
-
+<br>
+<br>
+<br>
 # Destination-Curl
 
 ### Project Overview
