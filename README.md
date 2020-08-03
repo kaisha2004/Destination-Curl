@@ -54,15 +54,15 @@ The **Destination Curl** MVP will provide a good starting point for the website.
 
 <br>
 
-#### Libraries (I DIDN'T KNOW HOW TO FILL THIS OUT)
+#### Libraries 
 
 > Use this section to list all supporting libraries and their role in the project.
 
-|     Library      | Description                                |
-| :--------------: | :----------------------------------------- |
-|   React Router   | _Lorem ipsum dolor sit amet, consectetur._ |
-| React SemanticUI | _Lorem ipsum dolor sit amet, consectetur._ |
-|   React Spring   | _Lorem ipsum dolor sit amet, consectetur._ |
+|     Library       |                                     Description                                            |
+| :--------------:  | :------------------------------------------------------------------------------------------|
+| React Router Dom  | _A tool that allows me to handle routes in a web app, using dynamic routing._              |
+| Styled Components | _A toole that will allow me to write actual CSS in your JavaScript._                       |
+|    Axios          | _A promise-based HTTP client that is used for making HTTP requests to fetch or save data._ |
 
 <br>
 
