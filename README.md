@@ -1,5 +1,4 @@
-
-![Link] <img src="https://i.gifer.com/AAf.gif"/>
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 # Destination-Curl
 
