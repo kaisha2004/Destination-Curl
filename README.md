@@ -1,9 +1,4 @@
 
-<img src="https://i.gifer.com/fxZd.gif" width="220" height="200" />
-
-Inline-style: 
-![Curls](https://i.gifer.com/AAf.gif "Curly Girl")
-
 # Destination-Curl
 
 ### Project Overview
