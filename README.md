@@ -13,6 +13,8 @@ Did you know that more than 60% of women have curly hair which makes for a mosai
 *designed for mobile devices (iPad and iPhone) as well
 <br>
 
+
+
 ### Wireframes
 
 ![https://wireframe.cc/E8U9Xt] (url)
