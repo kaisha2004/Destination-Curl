@@ -8,7 +8,6 @@
 
 ### Project Overview
 
-_**Destination Curl**_
 Did you know that more than 60% of women have curly hair which makes for a mosaic of curl types, curl structures, and curl styles on display everyday. Recently there's been this revolution in hair to focus on curls. No longer are women, heating, straightening, or chemically treating their curls. They are wearing them proudly big, bold, and free. Destination Curl is the online e-commerce equivalent to Sephora for curly girls. We want them to feel at home on our site, while buying products with confidence because they trust us with their precious curls. Also, we want them to engage daily with the site and gain useful tips/tricks on how to love their curls. 
 
 *designed for mobile devices (iPad and iPhone) as well
