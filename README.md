@@ -55,7 +55,6 @@ The **Destination Curl** MVP will provide a good starting point for the website.
 
 #### Libraries 
 
-> Use this section to list all supporting libraries and their role in the project.
 
 |     Library       |                                     Description                                            |
 | :--------------:  | :-----------------------------------------------------------------------------------------:|
