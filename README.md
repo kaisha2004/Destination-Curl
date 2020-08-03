@@ -59,18 +59,18 @@ The **Destination Curl** MVP will provide a good starting point for the website.
 > Use this section to list all supporting libraries and their role in the project.
 
 |     Library       |                                     Description                                            |
-| :--------------:  | :------------------------------------------------------------------------------------------|
+| :--------------:  | :-----------------------------------------------------------------------------------------:|
 | React Router Dom  | _A tool that allows me to handle routes in a web app, using dynamic routing._              |
-| Styled Components | _A toole that will allow me to write actual CSS in your JavaScript._                       |
+| Styled-Components | _A toole that will allow me to write actual CSS in your JavaScript._                       |
 |    Axios          | _A promise-based HTTP client that is used for making HTTP requests to fetch or save data._ |
 
 <br>
 
 #### Data
 
-|    API     | Quality Docs? |                              Website                                 
-| :--------: | :-----------: | :------------------------------------------------------------------- 
-| AirtableAPI|      no       | https://airtable.com/tblgWcItkHpk43HNw/viwyQcDI3557LF6uF?blocks=hide 
+|    API     | Quality Docs? |                              Website                                  |                     
+| :--------: | :-----------: | :--------------------------------------------------------------------:| 
+| AirtableAPI|      no       | https://airtable.com/tblgWcItkHpk43HNw/viwyQcDI3557LF6uF?blocks=hide  |
 
 <br>
 
@@ -99,7 +99,7 @@ src
 
 
 |  Component   |    Type    | state | props |                                 Description                                           |
-| :----------: | :--------: | :---: | :---: | :-------------------------------------------------------------------------------------|
+| :----------: | :--------: | :---: | :---: | :------------------------------------------------------------------------------------:|
 |    Header    | functional |   n   |   n   | _The header will contain the navigation and logo._                                    |
 |  Navigation  | functional |   n   |   n   | _The navigation will provide a link to each of the pages._                            |
 |   Homepage   | functional |   n   |   n   | _The homepage will render product images using cards in flexbox._                     |
@@ -127,7 +127,7 @@ src
 
 
 |  Function  | Description                      |
-| :--------: | :--------------------------------|
+| :--------: | :-------------------------------:|
 | TBD        |   _TBD_                          |
 
 
