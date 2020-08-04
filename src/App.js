@@ -24,9 +24,6 @@ function App() {
       </Route>
       {/* <Route path="/curlstyle-ideas">
         <Curlstyle />
-      </Route>
-      <Route path="/curl-blog">
-        <Blog />
       </Route> */}
       <Route path="/:products">
         <Products />
